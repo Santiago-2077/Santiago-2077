@@ -90,18 +90,6 @@ Juego FPS con raycasting.
 `Bases de datos · Ciencia de datos · POO · Estructura de datos · Sistemas operativos · Probabilidad y estadística · Computación en la nube · Metodologías ágiles`
 
 ---
-
-
-
-##  Estadísticas 📊
-
-<div align="center">
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Santiago-2077&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
 ## Mis Redes Sociales 🌎
 <div align="center">
 
