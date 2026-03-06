@@ -61,7 +61,7 @@ Plataforma completa desarrollada para servicio social. Incluye base de datos rel
 
 ---
 
-### 🔢 Conversor de unidades
+###  Conversor de unidades 💸
 Proyecto desarrollado para la materia de Estructura de Datos, con interfaz gráfica.
 `Python · Pygame`
 
@@ -104,7 +104,7 @@ Juego FPS con raycasting.
 </div>
 
 ---
-## Mis Redes 🌎
+## Mis Redes Sociales 🌎
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/santiago-gutierrez-rivera-8444bb3b5)
