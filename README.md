@@ -97,8 +97,6 @@ Juego FPS con raycasting.
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Santiago-2077&show_icons=true&theme=tokyonight&hide_border=true&locale=es)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Santiago-2077&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
