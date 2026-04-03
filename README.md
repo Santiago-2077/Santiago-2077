@@ -4,20 +4,20 @@
 
 *Estudiante de la Ingeniería en Desarrollo de Software*
 
-Full-stack · Bases de datos · Software Engineering · Desarrollo Web
+Full-stack · Bases de datos · Software Engineering · Desarrollo Web · Ciencia de Datos
 
 </div>
 
 ---
 <div align="center">
 
-#####  Inglés C1 · 👨🏻‍🎓 · `Disponible para prácticas y roles junior`
+#####  Inglés C1 · 👨🏻‍🎓 · `Disponible para prácticas`
 
 </div>
 
 ---
 
-## 🚀 Stack
+## Stack 🚀
 
 <div align="center">
 
@@ -42,37 +42,38 @@ Full-stack · Bases de datos · Software Engineering · Desarrollo Web
 
 ---
 
-##  Proyectos 🦾
+## Proyectos 🦾
 
-###  Analizador de playlists 🎧
-Analiza tus hábitos musicales a partir de tus playlists.
-`Python`
+### Zic-Pac-Toe 🎮
+Juego clasico de tic tac toe hecho en pygame con estetica de PvZ
+`Python` `Pygame` 
 
 ---
 
-###  Plataforma web de reciclaje 🍃
+### Plataforma web de reciclaje 🍃
 Plataforma completa desarrollada para servicio social. Incluye base de datos relacional, integración con APIs del clima y despliegue en producción.
 `Node.js · Express · SQLite · AWS EC2 · Render`
 
-*Link a mi página de reciclaje (BETA):*
-`reciclaje-yacatzin.onrender.com`
+*Link a mi página de reciclaje (BETA):* 
+[reciclaje-yacatzin.onrender.com](https://reciclaje-yacatzin.onrender.com)
 
 
 
 ---
 
-###  Conversor de unidades 💸
-Proyecto desarrollado para la materia de Estructura de Datos, con interfaz gráfica.
+### Snake-game 🐍
+Juego clasico de snake en 60 lineas de codigo
 `Python · Pygame`
 
 ---
 
-###  Juego estilo Wolfenstein
-Juego FPS con raycasting.
+### Zombiestein-3D 🧟
+Juego FPS con raycasting. Con estetica de pvz.
 `Python · Pygame`
 
 ---
-##  Certificaciones 📜
+
+## Certificaciones 📜
 
 | | |
 |---|---|
@@ -83,14 +84,15 @@ Juego FPS con raycasting.
 
 ---
 
-##  Formación 📖
+## Formación 📖
 
 **Ingeniería en Desarrollo de Software** *(en curso)*
 
 `Bases de datos · Ciencia de datos · POO · Estructura de datos · Sistemas operativos · Probabilidad y estadística · Computación en la nube · Metodologías ágiles`
 
 ---
-## Mis Redes Sociales 🌎
+
+## Redes Sociales 🌎
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/santiago-gutierrez-rivera-8444bb3b5)
