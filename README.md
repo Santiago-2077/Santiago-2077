@@ -8,6 +8,7 @@
 [![Credly](https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/santiago-gutierrez-rivera)
 
 </div>
+
 ---
 
 ```python
