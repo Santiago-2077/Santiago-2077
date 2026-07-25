@@ -1,21 +1,39 @@
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,nodejs,git,html,css,sqlite,aws" alt="stack icons">
+  <img src="./assets/pygame-logo.png" height="48" alt="pygame">
+</div>
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/santiago-gutierrez-rivera-8444bb3b5)
+[![Credly](https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/santiago-gutierrez-rivera)
+
+</div>
+---
+
 ```python
 class WhoAmI:
     user = "santiago-2077"
     location = "México"
     stack = ["python", "javascript", "node.js", "sqlite", "aws"]
-    current_work = "construyendo cosas raras con obsesión por los detalles y demasiado pygame"
 
-    def obsession():
-        return "un tic-tac-toe normal me aburre → le meto zombies"
+    def current_work():
+        return "demasiado pygame, obsesionado con los detalles"
 
     def proyecto_favorito():
         return "el que sí llega a producción"
-
-    def sobre_assets():
-        return "detallista hasta el asset — la mayoría los hice a mano, tuve que aprender edición fotográfica solo para eso"
 ```
 
 ---
+
+<table align="center">
+  <tr>
+    <td><a href="https://github.com/Santiago-2077/zombiestein-3D"><img src="./assets/zombiestein-3d.png" height="150" alt="zombiestein-3d gameplay"></a></td>
+    <td><a href="https://github.com/Santiago-2077/snake-game"><img src="./assets/snake-game.png" height="150" alt="snake-game gameplay"></a></td>
+    <td><a href="https://github.com/Santiago-2077/zic-pac-toe"><img src="./assets/zic-pac-toe.png" height="150" alt="zic-pac-toe gameplay"></a></td>
+    <td><a href="https://reciclaje-yacatzin.onrender.com/"><img src="./assets/logo-reciclaje.png" height="150" alt="logo plataforma-reciclaje"></a></td>
+    <td><a href="https://reciclaje-yacatzin.onrender.com/"><img src="./assets/landing-reciclaje.png" height="150" alt="pagina- plataforma-reciclaje"></a></td>
+  </tr>
+</table>
 
 ```js
 const proyectos = [
@@ -42,19 +60,3 @@ const proyectos = [
   },
 ];
 ```
-
-<table align="center">
-  <tr>
-    <td><a href="https://github.com/Santiago-2077/zombiestein-3D"><img src="./assets/zombiestein-3d.png" height="150" alt="zombiestein-3d gameplay"></a></td>
-    <td><a href="https://github.com/Santiago-2077/snake-game"><img src="./assets/snake-game.png" height="150" alt="snake-game gameplay"></a></td>
-    <td><a href="https://github.com/Santiago-2077/zic-pac-toe"><img src="./assets/zic-pac-toe.png" height="150" alt="zic-pac-toe gameplay"></a></td>
-    <td><a href="https://reciclaje-yacatzin.onrender.com/"><img src="./assets/logo-reciclaje.png" height="150" alt="logo plataforma-reciclaje"></a></td>
-    <td><a href="https://reciclaje-yacatzin.onrender.com/"><img src="./assets/landing-reciclaje.png" height="150" alt="pagina- plataforma-reciclaje"></a></td>
-  </tr>
-</table>
-
----
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,nodejs,git,html,css,sqlite,aws" alt="stack icons">
-</div>
